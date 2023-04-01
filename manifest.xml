@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+ <manifest> 
+ <project path="vendor/razer" name="barbarianin/proprietary_vendor_razer" remote="github" revision="lineage-18.1" /> 
+ <project path="kernel/razer/msm8998" name="barbarianin/android_kernel_razer_msm8998" remote="github" revision="lineage-18.1" /> 
+ <project path="device/razer/cheryl" name="barbarianin/android_device_razer_cheryl" remote="github" revision="lineage-18.1" /> 
+ </manifest>
